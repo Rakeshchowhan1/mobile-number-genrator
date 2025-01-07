@@ -1,0 +1,10 @@
+input{
+display: flex;
+align-items: center;
+border-color: 10px solid rgb(13, 62, 136);
+height: 70px;
+width: 500px;
+font-size: 22px;
+color: brown;
+background-color: chartreuse;
+}
